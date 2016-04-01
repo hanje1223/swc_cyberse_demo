@@ -1,0 +1,3 @@
+install.packages("ProjectTemplate")
+graph/
+cats <- read.csv(file = "data/fe")
